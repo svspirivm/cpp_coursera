@@ -6,3 +6,5 @@
 **.vcxproj.user
 **/Debug/*
 **/.vs/*
+**.rar
+**.zip
